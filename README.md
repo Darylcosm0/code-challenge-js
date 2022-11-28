@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # code-challenge-js
 # student-grade-generator
  # description 
@@ -70,3 +71,7 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
  on your terminal run node "net-salary-calculator.js"
  or  
  inside the code your code you can use console.log(netSalary()); to test if its working.  
+=======
+# code-challenge-grade-js
+toy problems in js
+>>>>>>> fb097a3022ad27b0c69721c5fc6ae38ddcd49432
