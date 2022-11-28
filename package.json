@@ -1,0 +1,26 @@
+{
+  "name": "student-grade-generator",
+  "version": "1.0.0",
+  "description": "generating grade using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "script": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darylcosm0/code-challenge-js.git"
+  },
+  "author": "DARYL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darylcosm0/code-challenge-js/issues"
+  },
+  "homepage": "https://github.com/Darylcosm0/code-challenge-js#readme",
+  "keywords": [
+    "score",
+    "speed",
+    "netsalary"
+
+  ]
+}
